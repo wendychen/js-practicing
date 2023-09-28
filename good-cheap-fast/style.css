@@ -57,7 +57,7 @@ body {
   animation: slideOn 0.3s linear forwards;
 }
 
-@keyframs slideOn {
+@keyframes slideOn {
   0% {
     transform: tranlateX(0) scale(1);
   }
