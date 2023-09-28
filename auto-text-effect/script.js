@@ -18,7 +18,7 @@ function writeText() {
     idx = 1;
   }
 
-  setTimeout(writeText, speed):
+  setTimeout(writeText, speed);
   
 }
 
