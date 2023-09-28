@@ -10,7 +10,7 @@ let speed = 300 / speedEl.value;
 writeText();
 
 function writeText() {
-  textEl.innerText = text.slice(0, idx0;
+  textEl.innerText = text.slice(0, idx);
 
   idx++;
 
