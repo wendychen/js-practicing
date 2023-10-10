@@ -5,7 +5,7 @@
 ### 50Projects50Days
 - 2023.09.28
 
-### miles to kilometers
+### miles to kilometers.js
 - 2023.10.09
 - mimo inspired
 
